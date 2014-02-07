@@ -1,0 +1,2 @@
+# cat=basic/enable; type=integer; label=Pid:The Page Uid of the Module
+pid = 1
