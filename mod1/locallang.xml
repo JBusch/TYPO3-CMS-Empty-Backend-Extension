@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<T3locallang>
+	<meta type="array">
+		<type>module</type>
+		<description>Language labels for module &quot;{{EXTENSIONKEY}}_tx{{EXTENSIONKEY}}M1&quot;</description>
+	</meta>
+	<data type="array">
+		<languageKey index="default" type="array">
+			<label index="title">Title</label>
+			<label index="helloWorld">Hello World</label>
+			<label index="accessDenied">You don't have the rights for this Backend Module.</label>
+		</languageKey>
+		<languageKey index="de" type="array">
+			<label index="title">Titel</label>
+			<label index="helloWorld">Hallo Welt</label>
+			<label index="accessDenied">Sie haben nicht die Berechtigung für dieses Backend Modul.</label>
+		</languageKey>
+	</data>
+</T3locallang>
